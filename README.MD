@@ -3,8 +3,6 @@ A simple lambda function to monitor _certain_ KMS events through cloudtrail and 
 
 ![Fig : Serverless AWS KMS Sentry](https://raw.githubusercontent.com/miztiik/serverless-kms-sentry/master/images/serverless-kms-sentry.png)
 
-#### Follow this article in [Youtube](https://youtu.be/UYaV-VfnbT8)
-
 1. ## Pre-Requisities
     We will need the following pre-requisites to successfully complete this activity,
     - `Cloudtrail` - [Get help here to setup cloudtrail](https://youtu.be/N4DdqAkeqD4) 
